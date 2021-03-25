@@ -1,93 +1,47 @@
-Johnny Coder
+Tangudu Rakesh
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Email                      rakeshtangudu9@gmail.com
+Regd.No                          Y18IT101
+phone.No                        9652432238
+LinkedIn                  [LinkedIn](https://www.linkedin.com/in/rakesh-tangudu-0786821a5/)
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2022 (expected)
+:   **B.Tech, Information Technology**; RVRJC college of Engineering(Guntur)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016-2018
+:   **Intermediate, MPC**; Sri Chaitanya Junior college(Visakhapatnam)
 
     *Minor: Awesomeology*
 
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
+2015-2016
+: ** 10th class, SSC**; Ravindra Bharathi School(Palasa)
+Technical Skills
 --------------------
+** Programming Languages: **
+1. C
+2. Python
+3. Java
+4. Data Structures
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+** Subjects: **
+1. DBMS
+2. Compiler Design
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+** Scripting Languages: **
+1. HTML
+2. CSS
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+** Human Languages: **
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     * English 
+     * Telugu
+     * Hindi(Read/Write)
