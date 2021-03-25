@@ -1,7 +1,7 @@
 Tangudu Rakesh
 ============
 Name                |  Tangudu Rakesh
--------------------     ----------------------------
+------------------- |  ----------------------------
 Email               |           rakeshtangudu9@gmail.com
 Regd.No             |                Y18IT101
 phone.No            |                9652432238
