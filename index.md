@@ -2,10 +2,10 @@ Tangudu Rakesh
 ============
 
 -------------------     ----------------------------
-Email                      rakeshtangudu9@gmail.com
-Regd.No                          Y18IT101
-phone.No                        9652432238
-LinkedIn                  [LinkedIn](https://www.linkedin.com/in/rakesh-tangudu-0786821a5/)
+Email           |           rakeshtangudu9@gmail.com
+Regd.No         |                Y18IT101
+phone.No        |                9652432238
+LinkedIn        |          [LinkedIn](https://www.linkedin.com/in/rakesh-tangudu-0786821a5/)
 -------------------     ----------------------------
 
 Education
